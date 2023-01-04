@@ -1,0 +1,6 @@
+package kr.co.ch04.controller;
+
+@Controller
+public class User1Controller {
+
+}
