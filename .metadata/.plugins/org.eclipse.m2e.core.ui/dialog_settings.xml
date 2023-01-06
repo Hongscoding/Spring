@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\java1\Desktop\workspace\Spring\Ch05\src\main\webapp\WEB-INF\views\user1\register.jsp"/>
 			<item value="C:\Users\java1\Desktop\workspace\Spring\Test1\src\main\webapp\index.jsp"/>
 			<item value="C:\Users\java1\Desktop\workspace\Spring"/>
 		</list>
